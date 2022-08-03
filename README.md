@@ -20,3 +20,9 @@ Ejemplos
 !beso .iroke. sefos hierba
 
 <img src="https://i.imgur.com/SAzJCOH.png">
+
+
+Necesitas instalar python 3.7: https://www.python.org/downloads/release/python-370/
+
+
+Imagenes sacadas de <a href="https://habsite.es">habiste.es</a>
