@@ -1,4 +1,5 @@
 comandos para usar:
+<br>
 !beso +keko1 + keko2 + lugar 
 <br>
 Ejemplos
