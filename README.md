@@ -25,4 +25,4 @@ Ejemplos
 Necesitas instalar python 3.7: https://www.python.org/downloads/release/python-370/
 
 
-Imagenes sacadas de <a href="https://habsite.es">habiste.es</a>
+Imagenes sacadas de <a href="https://habsite.es">habsite.es</a>
