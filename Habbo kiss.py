@@ -65,7 +65,7 @@ async def beso(ctx,  keko1, keko2, lugar):
     
     
     
-    img1 = Image.open(r"imagenes/" + lugar + ".png").convert("RGBA") #imagen  -> arenaplaya barco carretera desierto futbol hierba
+    img1 = Image.open(r"imagenes/" + lugar + ".png").convert("RGBA") #imagen  -> arenaplaya, barco, carretera, desierto, futbol y hierba
     img1.paste(img2,(20,0), mask = img2) #Posicion del keko 1
     
     ###
